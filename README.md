@@ -1,7 +1,7 @@
-#Temperature Station
+# Temperature Station
 Version 1.0
 
-###Overview
+### Overview
 An arduino sketch to output temperature and humidity data as well as control a Trane A/C unit using aRest and the ethernet shield.
 
 ## Requirements
